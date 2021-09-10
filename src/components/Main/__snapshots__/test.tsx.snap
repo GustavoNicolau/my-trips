@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should render the heading 1`] = `
+<main
+  class="styles__Wrapper-gFLbW fvMCGL"
+>
+  <img
+    alt="Imagem  e React Avançado escrito ao lado."
+    class="styles__Logo-bRSKZq dcEBRs"
+    src="/img/logo.svg"
+  />
+  <h1
+    class="styles__Title-cLnNeh ewmOBe"
+  >
+    React Brabo
+  </h1>
+  <h2
+    class="styles__Description-emvCfD CGqRp"
+  >
+    TypeScript, ReactJS, NextJS
+  </h2>
+  <img
+    alt="Dev de frente para uma tela com código"
+    class="styles__Illustration-fziNnF gHBCVB"
+    src="/img/hero-illustration.svg"
+  />
+</main>
+`;
