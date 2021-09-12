@@ -13,7 +13,7 @@ export const getStaticProps = async () => {
 
   return {
     props: {
-      revalidade: 5,
+      revalidate: 5,
       places
     }
   };
